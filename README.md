@@ -6,3 +6,5 @@ This challenge is to refactor a given starter code. There were many repeats in t
 
 
 ![This will resemble the mock-up located in the challenge README.md.](/janitor-tings/assets/images/01-Challenge.png)
+
+[https://palhambra.github.io/janitor-tings/](https://palhambra.github.io/janitor-tings/)
