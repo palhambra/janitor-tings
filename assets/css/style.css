@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Places links on right */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +34,12 @@ body {
     font-size: 20px;
 }
 
+/* Remove bullet points*/
 .header nav ul {
     list-style-type: none;
 }
 
+/* Places links horizontal */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -119,7 +123,7 @@ p {
     color: #ffffff;
 }
 
-
+/* resizing/limits image size */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -134,7 +138,7 @@ p {
     font-size: 36px;
 }
 
-
+/* Centers text for the footer */
 .footer {
     padding: 30px;
     clear: both;
